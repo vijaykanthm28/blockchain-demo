@@ -3,8 +3,8 @@ echo "******** build start ******"
 echo "pwd:"
 ls -la /
 ls -la /tmp/*
+cd /tmp/src 
 pwd
-cd ../src/
 npm install 
 
 echo "******** build end ******"

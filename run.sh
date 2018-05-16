@@ -2,6 +2,6 @@
 echo "***************************"
 echo "    Starting..."
 echo "***************************"
-cd ../src/
+cd /tmp/src/
 pwd
 npm start
